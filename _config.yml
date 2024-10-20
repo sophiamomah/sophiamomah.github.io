@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Sophia Momah"
 description              : "Software Engineer with experience in full-stack web development, UX/UI engineer, and automated testing. Proficient in writing and maintaining high-quality C# code for scalable, high-performance applications, as well as building and managing automated test suites. Key projects have included developing complex web applications and optimizing backend solutions, showcasing strong skills in Agile environments, specifically with Scrum practices. Eager to leverage current skills to further enhance application delivery and performance within dynamic teams."
 url                      : "https://sophiamomah.github.io"
-baseurl                  : "/portfolio"
+baseurl                  : #"/portfolio"
 repository               : "sophiamomah.github.io"
 teaser                   : "/assets/images/facepic.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
