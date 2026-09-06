@@ -66,6 +66,41 @@ body {
   font-family: var(--default-font);
 }
 
+/* A-Listings project images */
+.a-listings-images {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.a-listings-web {
+  width: 70%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.a-listings-mobile {
+  height: 180px;
+  width: auto;
+  object-fit: contain;
+}
+
+.mobile-demo {
+  display: flex;
+  justify-content: center;
+}
+
+.mobile-demo video {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 12px;
+}
+
 a {
   color: var(--accent-color);
   text-decoration: none;
